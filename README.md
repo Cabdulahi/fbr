@@ -1,4 +1,4 @@
-# fbr hacking Facebook tool
+# fbr Facebook Toolkit
 
 # follow installation 
 # $: git clone https://github.com/Cabdulahi/fbr
